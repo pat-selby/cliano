@@ -17,6 +17,45 @@ E4 G4 G4                  → d g g
 E4 D4 C4 D4 E4 E4 E4       → d s a s d d d  
 D4 D4 E4 D4 C4             → s s d s a  
 
+Happy Birthday
+a    a    s    a    f    d
+a    a    s    a    g    f
+a    a    a    f    d    d    s
+h    h    f    f    g    f
+
+Ode to Joy (Beethoven) - Simplified
+d    d    f    g    g    f    d    s    a    a    s    d    d    s    s
+d    d    f    g    g    f    d    s    a    a    s    d    s    a    a
+s    s    d    a    s    d    f    d    a    s    d    f    d    s    a    s    g
+d    d    f    g    g    f    d    s    a    a    s    d    s    a    a
+
+Jingle Bells
+d    d    d    d    d    d    d    f    a    s    d
+f    f    f    f    f    d    d    d    d    s    s    d    s    f
+d    d    d    d    d    d    d    f    a    s    d
+f    f    f    f    f    d    d    d    f    f    s    a
+
+London Bridge
+g    f    d    f    g    s    a    d    f    g
+g    f    d    f    g    s    a    d    a    g
+s    s    a    a    g    g    f    d    f    g    s    a    d    a    g
+
+Fur Elise (Beethoven) - Opening
+u    d    u    d    u    s    f    d    a    s    d    f    a    s    f    u
+u    d    u    d    u    s    f    d    a    s    d    f    a    d    f    g
+
+Feliz Navidad
+f    f    f    f    f    f    f    g    d    d    f
+f    f    f    f    f    f    f    g    d    d    f
+f    f    f    f    g    h    g    f    d    s    a    s    d
+f    f    f    f    g    h    g    f    d    s    a    s    d
+
+// Verse part (I wanna wish you a Merry Christmas)
+s    d    f    f    g    f    d    s    a    s    d    f    d
+s    d    f    f    g    f    d    s    a    s    d    f    d
+s    d    f    f    g    f    d    s    a    s    d    f    d
+s    d    f    f    g    f    d    s    a    s    d    f    d
+
 // We've got two missing keys Cb4 and Fb4. I couldn't find sounds for them. 
 
 // Audio Source -> University of Iowa Electronic Music Studio

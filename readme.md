@@ -12,26 +12,30 @@ A command-line piano application written in Rust that lets you play piano sounds
 ## Key Mapping
 
 ### White Keys (Natural Notes)
+
 ```
 a  s  d  f  g  h  j  k
 C4 D4 E4 F4 G4 A4 B4 C5
 ```
 
 ### Black Keys (Sharp/Flat Notes)
+
 ```
 w  e     t  y  u
 Cb4 Db4   Fb4 Gb4 Ab4
 ```
 
-*Note: Cb4 and Fb4 samples were not available, so these keys are currently unmapped.*
+_Note: Cb4 and Fb4 samples were not available, so these keys are currently unmapped._
 
 ## Installation
 
 ### Prerequisites
+
 - Rust and Cargo installed on your system
 - Audio output device
 
 ### Build from Source
+
 ```bash
 # Clone the repository
 git clone <repository-url>
@@ -47,11 +51,13 @@ cargo run
 ## Usage
 
 1. Run the application:
+
    ```bash
    cargo run
    ```
 
 2. Use the mapped keys to play piano notes:
+
    - Press `a` to play C4
    - Press `s` to play D4
    - Press `d` to play E4
@@ -60,6 +66,7 @@ cargo run
 3. Try playing some songs! Here are a few examples:
 
 ### Twinkle Twinkle Little Star
+
 ```
 a a g g h h g
 f f d d s s a
@@ -70,6 +77,7 @@ f f d d s s a
 ```
 
 ### Mary Had a Little Lamb
+
 ```
 d s a s d d d
 s s s
@@ -81,11 +89,13 @@ s s d s a
 ## Technical Details
 
 ### Architecture
+
 - **Audio Backend**: [Rodio](https://github.com/RustAudio/rodio) for cross-platform audio playback
 - **Command Line Interface**: [Clap](https://github.com/clap-rs/clap) for argument parsing
 - **Audio Format**: WAV files for high-quality sound reproduction
 
 ### Project Structure
+
 ```
 cliano/
 ├── src/
@@ -110,6 +120,7 @@ cliano/
 ```
 
 ### Dependencies
+
 - `rodio` - Audio playback library
 - `clap` - Command line argument parser
 - Standard library modules for file I/O and threading
@@ -120,11 +131,12 @@ The piano samples used in this project are sourced from the [University of Iowa 
 
 ## Demo
 
-[![Cliano Demo](https://youtu.be/Fppt16VJ108)]
+[![Cliano Demo](https://img.youtube.com/vi/Fppt16VJ108/0.jpg)](https://youtu.be/Fppt16VJ108)
 
-
+_Click the image above to watch a demonstration of Cliano in action_
 
 ### Sample Performance
+
 Try playing these popular melodies:
 
 1. **Twinkle Twinkle Little Star**: `a a g g h h g f f d d s s a`
@@ -171,4 +183,4 @@ This project is open source. Please check the audio samples' licensing terms fro
 
 ---
 
-*Made with ❤️ and Rust*
+_Made with ❤️ and Rust_

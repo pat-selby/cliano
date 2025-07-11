@@ -120,9 +120,9 @@ The piano samples used in this project are sourced from the [University of Iowa 
 
 ## Demo
 
-[![Cliano Demo](https://img.shields.io/badge/Demo-Play%20Piano-blue)](https://github.com/yourusername/cliano)
+[![Cliano Demo](https://youtu.be/Fppt16VJ108)]
 
-*A video demonstration showing the piano in action will be added here*
+
 
 ### Sample Performance
 Try playing these popular melodies:
